@@ -1,0 +1,106 @@
+
+.name
+{
+    
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 80px;
+}
+.intro1
+{
+    font-size: 30px;
+}
+.intro2
+{
+    font-size: 25px;
+}
+body
+{
+    font-family: "Sedan", serif;
+  font-weight: 400;
+  font-style: normal;
+    
+}
+.c1
+{
+    background-color: #F8D7E8;
+}
+.c2
+{
+    background-color: #d6f5ff;
+}
+.c4
+{
+    background-color: #d6f5ff;
+}
+.c3
+{
+    background-color: #F8D7E8;
+}
+}
+.navbar
+{
+    font-size: 20px;
+}
+
+.navbar button
+{
+    font-size: 20px;
+}
+.carousel
+{
+/*    margin-top: 100px;*/
+}
+
+.carousel-item img{
+  height: 600px;
+  width: 500px;
+}
+#navbarSupportedContent
+{
+    margin-left: 500px;
+}
+.carousel-item img {
+/*    object-position: center;*/
+/*    margin-left: 500px;*/
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: gray;
+}
+
+.chs
+{
+/*    padding: 20px;*/
+/*
+    margin-top: 120px;
+    margin-bottom: 70px;
+*/
+    text-align: center;
+}
+.chs h1
+{
+    font-size: 100px;
+    
+}
+.chs h2
+{
+    font-size: 40px;
+}
+.skills
+{
+    font-size: 30px;
+}
+.chs h3,p
+{
+    text-align: center;
+    margin-top:30px;
+}
+
+
+.parallax-window {
+    min-height: 1000px;
+    background: transparent;
+}
